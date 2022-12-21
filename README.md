@@ -9,7 +9,7 @@
 
 ## Meu contato
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/lucas-santos-239358132/)&nbsp;
-[![Email Badge](https://img.shields.io/badge/Email-323330?style=for-the-badge&logo=appveyor&logoColor=white)](lucaspastourasantos@hotmail.com)&nbsp;
+[![Email Badge](https://img.shields.io/badge/Email-323330?style=for-the-badge&logo=appveyor&logoColor=white)](https://about.me/lucas-s)&nbsp;
 [![Instagram Badge](https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=purple)](https://www.instagram.com/lucas-santos1993/) &nbsp;
 
 
