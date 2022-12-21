@@ -18,5 +18,5 @@
 
 
 ## Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=ruby,python,selenium,gherkin,git,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,python,nodejs,selenium,gherkin,git,aws)](https://skillicons.dev)
  
