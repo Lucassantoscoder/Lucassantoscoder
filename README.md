@@ -14,9 +14,9 @@
 
 
 ## Status
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucassantoscoder&layout=compact)](https://github.com/Lucassantoscoder/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucassantoscoder&layout=compact&theme=dracula)](https://github.com/Lucassantoscoder/github-readme-stats)
 
 
 ## Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=ruby,python,nodejs,selenium,gherkin,git,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,python,nodejs,selenium,gherkin,androidstudio,git,aws)](https://skillicons.dev)
  
