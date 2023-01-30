@@ -12,7 +12,6 @@
 [![Email Badge](https://img.shields.io/badge/Email-323330?style=for-the-badge&logo=appveyor&logoColor=white)](https://about.me/lucas-s)&nbsp;
 [![Instagram Badge](https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=purple)](https://www.instagram.com/lucas-santos1993/) &nbsp;
 
-
 ## Status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucassantoscoder&layout=compact&theme=dracula)](https://github.com/Lucassantoscoder/github-readme-stats)
 
